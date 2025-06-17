@@ -1,7 +1,7 @@
 
 package Arrays_And_Hashing.JavaSolutions;
 
-class Solution {
+class FirstUniqueCharacterInaString{
     public int firstUniqChar(String s) {
         int[] freq = new int[26]; // Only lowercase English letters
 

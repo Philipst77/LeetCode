@@ -2,7 +2,7 @@ package Arrays_And_Hashing.JavaSolutions;
 
 import java.util.*;
 
-class Solution {
+class WordPattern{
     public boolean wordPattern(String pattern, String s) {
         String[] words = s.split(" ");
 

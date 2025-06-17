@@ -2,7 +2,7 @@ package Arrays_And_Hashing.JavaSolutions;
 
 import java.util.ArrayList;
 
-class Solution {
+class IntersectionOfTwoArrays{
     public int[] intersection(int[] nums1, int[] nums2) {
         ArrayList<Integer> seen = new ArrayList<>();
         ArrayList<Integer> inter = new ArrayList<>();
